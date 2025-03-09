@@ -25,8 +25,8 @@
 # Dependencie mlo's and props
 - [Coke lab](https://www.gta5-mods.com/maps/mlo-enhanced-coke-lab-sp-fivem-dvd6789)
 - [Legion Weed clinic](https://www.gta5-mods.com/maps/mlo-legion-weed-clinic)
+- [4 Drugs Labs](https://www.gta5-mods.com/maps/mlo-4x-drug-lab-interiors-sp-fivem)
 - [Methbarrels props](https://github.com/StuxxyOfficial/methbarrels)
-- [druglabs](https://www.gta5-mods.com/maps/mlo-4x-drug-lab-interiors-sp-fivem)
 
 # QBCore Dependencies
 - [oxmysql](https://github.com/overextended/oxmysql/releases)
@@ -53,8 +53,6 @@
 ![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20170023.png)
 ![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20170047.png)
 ![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20170112.png)
-
-# ------------------------------------------------------------------------
 
 # MH Delivery Jobs is a unique script. (QB/ESX)
 - This is a unique delivery jobs script.
