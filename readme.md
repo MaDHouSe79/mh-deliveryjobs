@@ -48,7 +48,7 @@
 # MH Delivery Jobs is a unique script. (QB/ESX)
 - This is a unique delivery jobs script.
 - There are several delivery jobs one for deliver boxen or monaybags and for drugs like weed brinks coke brinks and meth.
-- It uses a box and a monaybag also a weeb_brick and coke_block prop when you do a job.
+- It uses a box and a monaybag also a weed_brick and coke_block prop when you do a job.
 
 # How it works
 - first you need to find a lab key before you can do this job delivery,
