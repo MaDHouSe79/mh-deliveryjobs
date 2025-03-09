@@ -45,12 +45,12 @@
 
 # Screenshot
 ![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20165814.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshot/Schermafbeelding%202025-03-02%20165859.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshot/Schermafbeelding%202025-03-02%20165922.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshot/Schermafbeelding%202025-03-02%20165950.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshot/Schermafbeelding%202025-03-02%20170023.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshot/Schermafbeelding%202025-03-02%20170047.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshot/Schermafbeelding%202025-03-02%20170112.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20165859.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20165922.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20165950.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20170023.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20170047.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20170112.png)
 
 # ------------------------------------------------------------------------
 
