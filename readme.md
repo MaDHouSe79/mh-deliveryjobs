@@ -37,14 +37,6 @@
 - [qb-radialmenu](https://github.com/qbcore-framework/qb-radialmenu)
 - [qb-target](https://github.com/overextended/ox_lib/releases) or [ox_target](https://github.com/overextended/ox_target/releases)
 
-# ESX Dependencies
-- [oxmysql](https://github.com/overextended/oxmysql/releases)
-- [PolyZone](https://github.com/mkafrin/PolyZone/releases)
-- [ox_lib](https://github.com/overextended/ox_lib/releases)
-- [ox_target](https://github.com/overextended/ox_target/releases)
-- [ox_inventory](https://github.com/overextended/ox_inventory/releases)
-- [ox_doorlock](https://github.com/overextended/ox_doorlock/releases)
-
 # Screenshot
 ![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20165814.png)
 ![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20165859.png)
@@ -56,7 +48,7 @@
 ![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-08%20115635.png)
 ![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-02-25%20214754.png)
 
-# MH Delivery Jobs is a unique script. (QB/ESX)
+# MH Delivery Jobs is a unique script.
 - This is a unique delivery jobs script.
 - There are several delivery jobs one for deliver boxen or monaybags and for drugs like weed brinks coke brinks and meth.
 - It uses a box and a monaybag also a weed_brick and coke_block prop when you do a job.
