@@ -26,6 +26,7 @@
 - [Coke lab](https://www.gta5-mods.com/maps/mlo-enhanced-coke-lab-sp-fivem-dvd6789)
 - [Legion Weed clinic](https://www.gta5-mods.com/maps/mlo-legion-weed-clinic)
 - [Methbarrels props](https://github.com/StuxxyOfficial/methbarrels)
+- [druglabs](https://www.gta5-mods.com/maps/mlo-4x-drug-lab-interiors-sp-fivem)
 
 # QBCore Dependencies
 - [oxmysql](https://github.com/overextended/oxmysql/releases)
