@@ -104,6 +104,7 @@
 # Vehicles
 - Ignus (drugs delivery)
 - Adder (drugs delivery)
+- xa21 (drugs delivery)
 - Stockade (moneybag delivery)
 - Speedo (box delivery)
 - Speedo4 (box delivery)
