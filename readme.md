@@ -51,7 +51,7 @@
 ![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-02-25%20214754.png)
 
 # MH Delivery Jobs is a unique script.
-- This is a unique delivery jobs script.
+- This is a unique delivery jobs script where you also can own a drugs lab.
 - There are several delivery jobs one for deliver boxen or monaybags and for drugs like weed brinks coke brinks and meth.
 - It uses a box and a monaybag also a weed_brick and coke_block prop when you do a job.
 
