@@ -22,6 +22,11 @@
     </a>      
 </p>
 
+# MH Delivery Jobs is a unique script. (QB/ESX)
+- This is a unique delivery jobs script where you also can own a drugs lab.
+- There are several delivery jobs one for deliver boxen or monaybags and for drugs like weed brinks coke brinks and meth.
+- It uses a box and a monaybag also a weed_brick and coke_block prop when you do a job.
+
 # Dependencie mlo's and props
 - [Coke lab](https://www.gta5-mods.com/maps/mlo-enhanced-coke-lab-sp-fivem-dvd6789)
 - [Legion Weed clinic](https://www.gta5-mods.com/maps/mlo-legion-weed-clinic)
@@ -44,11 +49,6 @@
 - [ox_target](https://github.com/overextended/ox_target/releases)
 - [ox_inventory](https://github.com/overextended/ox_inventory/releases)
 - [ox_doorlock](https://github.com/overextended/ox_doorlock/releases)
-
-# MH Delivery Jobs is a unique script. (QB/ESX)
-- This is a unique delivery jobs script where you also can own a drugs lab.
-- There are several delivery jobs one for deliver boxen or monaybags and for drugs like weed brinks coke brinks and meth.
-- It uses a box and a monaybag also a weed_brick and coke_block prop when you do a job.
 
 # How it works
 - first you need to find a lab key before you can do this job delivery,
