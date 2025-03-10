@@ -32,7 +32,8 @@
 - [Legion Weed clinic](https://www.gta5-mods.com/maps/mlo-legion-weed-clinic)
 - [4 Drugs Labs](https://www.gta5-mods.com/maps/mlo-4x-drug-lab-interiors-sp-fivem)
 - [Methbarrels props](https://github.com/StuxxyOfficial/methbarrels)
-
+- [Chemical Shop](https://www.gta5-mods.com/maps/mlo-chemical-shop-add-on-fivem-mrtrue#description_tab)
+  
 # QBCore Dependencies
 - [oxmysql](https://github.com/overextended/oxmysql/releases)
 - [PolyZone](https://github.com/mkafrin/PolyZone/releases)
