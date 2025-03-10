@@ -37,23 +37,15 @@
 - [qb-radialmenu](https://github.com/qbcore-framework/qb-radialmenu)
 - [qb-target](https://github.com/overextended/ox_lib/releases) or [ox_target](https://github.com/overextended/ox_target/releases)
 
-# Screenshot
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20165814.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20165859.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20165922.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20165950.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20170023.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20170047.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20170112.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-10%20131117.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-10%20131130.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-10%20131143.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-08%20115635.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-09%20194128.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-10%20074133.png)
-![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-02-25%20214754.png)
+# ESX Dependencies
+- [oxmysql](https://github.com/overextended/oxmysql/releases)
+- [PolyZone](https://github.com/mkafrin/PolyZone/releases)
+- [ox_lib](https://github.com/overextended/ox_lib/releases)
+- [ox_target](https://github.com/overextended/ox_target/releases)
+- [ox_inventory](https://github.com/overextended/ox_inventory/releases)
+- [ox_doorlock](https://github.com/overextended/ox_doorlock/releases)
 
-# MH Delivery Jobs is a unique script.
+# MH Delivery Jobs is a unique script. (QB/ESX)
 - This is a unique delivery jobs script where you also can own a drugs lab.
 - There are several delivery jobs one for deliver boxen or monaybags and for drugs like weed brinks coke brinks and meth.
 - It uses a box and a monaybag also a weed_brick and coke_block prop when you do a job.
@@ -111,6 +103,22 @@
 
 # More then 600 routes added
 - There are many different routes, you can add more if you want.
+
+# Screenshot
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20165814.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20165859.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20165922.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20165950.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20170023.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20170047.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-02%20170112.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-10%20131117.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-10%20131130.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-10%20131143.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-08%20115635.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-09%20194128.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-03-10%20074133.png)
+![foto](https://github.com/MaDHouSe79/mh-deliveryjobs/blob/main/screenshots/Schermafbeelding%202025-02-25%20214754.png)
 
 # LICENSE
 [GPL LICENSE](./LICENSE)<br />
