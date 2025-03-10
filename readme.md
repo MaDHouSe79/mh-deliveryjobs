@@ -89,7 +89,7 @@
 # Performance build in
 - When you are driving you don't see all boxes, this is to keep performance in game,
 - there are vehicles with over 400 boxes so it is not a good idea to render all boxes,
-- and it only renders the last 2 rows in the trunk, the max rander is 50 boxes and the lowest is 10.
+- and it only renders the last 2 rows in the trunk, the max rander is 50 boxes and the lowest is 3.
 - also there are around 600 diffred routes.
 
 # QB-SmallResources
